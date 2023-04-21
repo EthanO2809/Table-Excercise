@@ -1,0 +1,61 @@
+html, body {
+    background-color: beige;
+}
+.header-1 {
+    text-align: center;
+    text-shadow: 3px 2px greenyellow;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 6px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Table {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    border: 1px solid black;
+}
+table, th, td {
+    border: 3px solid black;
+}
+
+table {
+    width: 100%;
+}
+th {
+    height: 50px;
+}
+
+.e18 {
+    background-color: grey;
+}
+.e20 {
+    background-color: black;
+    color: white;
+}
+.u20 {
+    background-color: red;
+}
+.o21 {
+    background-color: pink;
+}
+.underline {
+    font-size: large;
+    font-weight: bold;
+}
+.Males {
+    list-style: none;
+    padding: 10px 30px;
+    background-image: url("../featured.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px;
+}
+.Females {
+    list-style: none;
+    padding: 10px 30px;
+    background-image: url("../featured.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px;
+}
